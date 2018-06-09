@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Anjali Gopinathan
 
 You can use the [editor on GitHub](https://github.com/anjalisg/SpringBio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
